@@ -17,4 +17,4 @@ Previously, I worked at BlackRock, Goldman Sachs and JP Morgan.
 *Email*: steven.zheng@stern.nyu.edu <br/>
 *Address*: 44 West 4th Street, New York, NY 10012
 
-For more detail, click here: [CV](https://pages.github.com/)
+For more detail, click here: [CV](https://stevenzheng1.github.io/cv/)
