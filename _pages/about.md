@@ -12,3 +12,5 @@ redirect_from:
 I'm a research assistant at New York University. My research interests are in asset pricing, macroeconomics and international finance.
 
 Previously, I worked at BlackRock, Goldman Sachs and JP Morgan.
+
+test
