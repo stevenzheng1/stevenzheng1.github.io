@@ -11,6 +11,4 @@ redirect_from:
 
 I'm a research assistant at New York University. My research interests are in asset pricing, macroeconomics and international finance.
 
-Previously, I worked at BlackRock, Goldman Sachs and JP Morgan.
-
-test6
+Previously, I worked at BlackRock, Goldman Sachs and JP Morgan. I studied mathematics and economics at Georgetown University, where I was also a member of the NCAA Division I swim team.
