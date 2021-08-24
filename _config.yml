@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Steven Zheng"
 title_separator          : "-"
 name                     : &name "Steven Zheng"
-description              : &description "Research assistant at NYU"
+description              : &description "PhD student at UC Berkeley"
 url                      : https://stevenzheng1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "stevenzheng1.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Steven Zheng"
   avatar           : "steven_zheng.png"
-  bio              : "Research assistant at NYU"
-  location         : "New York, NY"
+  bio              : "PhD student at UC Berkeley"
+  location         : #"New York, NY"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=peF3-GYAAAAJ"
-  email            : "steven.zheng@stern.nyu.edu"
+  email            : "steven_zheng@berkeley.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
