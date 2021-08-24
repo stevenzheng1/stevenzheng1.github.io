@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv               : "zheng_cv_nyu"
+  cv               : #"zheng_cv_nyu"
 
 
 # Reading Files
