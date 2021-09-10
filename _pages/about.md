@@ -16,4 +16,4 @@ Previously, I was a research assistant at New York University. Before that, I wo
 ### Contact Information
 Email: [steven_zheng@berkeley.edu](mailto:steven_zheng@berkeley.edu)
 
-For more detail, click here: [CV](https://stevenzheng1.github.io/files/zheng_cv_berkeley.pdf)
+For more detail, click here: [CV](https://stevenzheng1.github.io/files/zheng_cv_berkeley.pdf){:target="_blank"}
