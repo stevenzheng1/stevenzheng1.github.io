@@ -10,7 +10,7 @@ redirect_from:
 Working Papers
 ------
 
-[The Value of a Cure: An Asset Pricing Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3731098), with [Viral Acharya](http://pages.stern.nyu.edu/~sternfin/vacharya/), [Timothy Johnson](https://timothyjohnson.web.illinois.edu/) and [Suresh Sundaresan](https://www0.gsb.columbia.edu/faculty/ssundaresan/), March 2021
+[The Value of a Cure: An Asset Pricing Perspective](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3731098), with [Viral Acharya](http://pages.stern.nyu.edu/~sternfin/vacharya/), [Timothy Johnson](https://timothyjohnson.web.illinois.edu/) and [Suresh Sundaresan](https://www0.gsb.columbia.edu/faculty/ssundaresan/), June 2021
   - *Versions*: [NBER](https://www.nber.org/papers/w28127), [CEPR Covid Economics](https://cepr.org/file/10122/download?token=S6Tae4yD), [VoxEU column](https://voxeu.org/article/value-vaccine-end-covid-19-worth-between-5-and-15-wealth)
   - *Coverage*: [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2020/11/the-pandemic-is-indeed-a-big-deal.html), [VoxEU interview](https://voxeu.org/content/value-cure-covid-19-what-are-asset-prices-telling-us), Bloomberg, Torsten Slok
 
