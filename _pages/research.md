@@ -18,6 +18,6 @@ Working Papers
 
 
 
-[**Disasters with Unobservable Duration and Frequency: Intensified Responses and Diminished Preparedness**](https://pages.stern.nyu.edu/~sternfin/vacharya/public_html/pdfs/AJSZ_March2023.pdf), with Viral Acharya, Timothy Johnson and Suresh Sundaresan, March 2023
+[Disasters with Unobservable Duration and Frequency: Intensified Responses and Diminished Preparedness](https://pages.stern.nyu.edu/~sternfin/vacharya/public_html/pdfs/AJSZ_March2023.pdf), with Viral Acharya, Timothy Johnson and Suresh Sundaresan, March 2023
 
 **Abstract**: We study an economy subject to recurrent disasters when agents have imprecise information about the frequency and duration of the disasters. Uncertainty about the persistence of states can lead to seemingly pessimistic behavior in bad times and optimistic behavior in good times. In a disaster, uncertainty about duration acts as an amplification mechanism. Agents alter their optimal investment and consumption more intensely relative to the full- information benchmark, and the welfare cost of parameter uncertainty can be extreme. However, in advance of a disaster, uncertainty about the arrival rate can be welfare-increasing and agents exhibit diminished preparedness: they optimally invest less in mitigation than under full information and pay less for insurance against the next disaster.
