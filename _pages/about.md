@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I'm a PhD student at Columbia Business School and visiting Copenhagen Business School in summer 2023. My research interests are in asset pricing and macro-finance.
+I'm a PhD student at Columbia Business School. My research interests are in asset pricing and macro-finance. This summer I'm visiting Harvard Business School and Copenhagen Business School.
 
-Previously, I was a PhD student at the University of California, Berkeley, where I worked with Yuriy Gorodnichenko and competed on the triathlon team. Before that, I worked as a research assistant at New York University and at BlackRock in New York. I studied mathematics and economics at Georgetown University, where I was also on the NCAA Division I swim team.
+Previously, I was a PhD student at the University of California, Berkeley and compted on Cal's triathlon team. Before that, I was a research assistant at New York University and worked at BlackRock in New York. I studied mathematics and economics at Georgetown University, where I was also on the NCAA Division I swim team.
 
 Email: [steven.zheng@columbia.edu](mailto:steven.zheng@columbia.edu)
 
