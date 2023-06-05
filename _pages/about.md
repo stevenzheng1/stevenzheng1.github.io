@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a PhD student at Columbia Business School. My research interests are in asset pricing and macro-finance. This summer I'm visiting Harvard Business School and Copenhagen Business School.
+I'm a PhD student at Columbia Business School. My research interests are in asset pricing and macro-finance.
 
 Previously, I was a PhD student at the University of California, Berkeley and compted on Cal's triathlon team. Before that, I was a research assistant at New York University and worked at BlackRock in New York. I studied mathematics and economics at Georgetown University, where I was also on the NCAA Division I swim team.
 
