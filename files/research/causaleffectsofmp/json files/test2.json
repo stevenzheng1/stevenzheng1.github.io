@@ -1,0 +1,56 @@
+{
+  "source" : "Stata Data",
+  "name" : "DataSet",
+  "data" : [ {
+    "A" : "S&P 500 level",
+    "C" : 4363.62
+  }, {
+    "A" : "10-year Treasury",
+    "C" : 3.772270405557415
+  }, {
+    "A" : "Most recent CPI number",
+    "C" : 4.0
+  }, {
+    "A" : "Consensus long-term earnings growth",
+    "C" : 10.385597
+  }, {
+    "A" : "(MEDIAN) Fed forecast for fed funds rate for current end-year",
+    "C" : 5.625
+  }, {
+    "A" : "(MEDIAN) Fed forecast for fed funds rate, 1 year ahead",
+    "C" : 4.625
+  }, {
+    "A" : "(MEDIAN) Fed forecast for fed funds rate, 2 years ahead",
+    "C" : 3.375
+  }, {
+    "A" : "(MEDIAN) Fed forecast for fed funds rate, long-term",
+    "C" : 2.5
+  }, {
+    "A" : "(MEDIAN) Fed forecast for real GDP",
+    "C" : 1.0
+  }, {
+    "A" : "(MEDIAN) Fed forecast for pce inflation",
+    "C" : 3.2
+  }, {
+    "A" : "Consensus one-year earnings growth",
+    "C" : 10.36890380107891
+  }, {
+    "A" : "Current fed funds rate",
+    "C" : 5.125
+  }, {
+    "A" : "Fed funds futures-implied for current-year end",
+    "C" : 5.274999999999991
+  }, {
+    "A" : "Fed funds futures-implied, 1 year ahead",
+    "C" : 3.829999999999998
+  }, {
+    "A" : "Fed funds futures-implied, 2 years ahead",
+    "C" : 3.670000000000002
+  }, {
+    "A" : "Expected number of hikes (+) or cuts (-) until year-end",
+    "C" : 1.0
+  }, {
+    "A" : "Fed funds futures-implied hike or cut at next meeting",
+    "C" : 1.0
+  } ]
+}
